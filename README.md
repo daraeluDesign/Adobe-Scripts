@@ -1,1 +1,1 @@
-# Adobe-Scripts
+Repositório de Script para os programas Photoshop e illustrator
